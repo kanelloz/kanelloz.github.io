@@ -1,0 +1,66 @@
+<html>
+<head>
+   <title>programa</title>
+</head>
+<body bgcolor="lightblue">
+<H1><FONT COLOR="DARKCYAN"><CENTER>2o ΕΠΑΛ ΧΑΛΑΝΔΡΙΟΥ</FONT></H1>
+<table border="2" cellspacing="3" align="center">
+<tr>
+ <td align="center">
+<td>8:25-9:10  
+<td>9:15-10:00  
+<td>10:10-10:55  
+<td>11:05-11:50  
+<td>12:00-12:45  
+<td>12:50-13:25  
+<td>13:30-14:10
+</tr>
+<tr>
+ <td align="center">ΔΕΥΤΕΡΑ
+ <td align="center">ΓΚΟΥΒΑΣ<td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center"><font color="black">ΚΙΤΣΙΟΣ<br>
+ <td align="center"><font color="black">ΚΙΤΣΙΟΣ<br>
+ <td align="center"><font color="black">ΝΕΣΤΟΡΑΣ<br>
+ <td align="center"><font color="black">ΒΕΛΙΣΑΡΙΟΥ<br>
+ <td align="center">ΤΕΛΟΝΙΑΔΟΥ
+</tr>
+<tr>
+ <td align="center">ΤΡΗΤΙ
+ <td align="center"><font color="black">ΝΕΣΤΟΡΑΣ<br>
+ <td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center"><font color="black">ΒΕΛΙΣΑΡΙΟΥ<br>
+ <td align="center">ΓΚΟΥΒΑΣ
+ <td align="center"><font color="black">ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ<BR>
+ <td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center">ΓΕΝΕΖΤΑΚΗΣ
+</tr>
+<tr>
+ <td align="center">ΤΕΤΑΡΤΗ
+ <td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center"><font color="black">ΝΕΣΤΟΡΑΣ<BR>
+ <td align="center"><font color="black">ΝΕΣΤΟΡΑΣ<br>
+ <td align="center">ΓΕΝΕΖΤΑΚΗΣ
+ <td colspan="3" align="center"><font color="black"> ΚΙΤΣΙΟΣ
+</tr>
+<tr>
+ <td align="center">ΠΕΜΠΤΗ
+ <td align="center">ΘΕΛΕΡΙΤΗ<br>
+ <td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center"><font color="black">ΒΕΛΙΣΑΡΙΟΥ<BR>
+ <td align="center">ΓΕΝΕΖΤΑΚΗΣ
+ <td align="center"><font color="black">ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ<br>
+ <td align="center"><font color="black">ΚΙΤΣΙΟΣ<br>
+ <td align="center">ΓΕΝΕΖΤΑΚΗΣ
+</tr>
+<tr>
+ <td align="center">ΠΑΡΑΣΚΕΥΗ
+ <td align="center"><font color="black">ΓΚΟΥΒΑΣ<BR>
+ <td align="center"><font color="black">ΚΙΤΣΙΟΣ<br>
+ <td align="center"><font color="black">ΝΕΣΤΟΡΑΣ<br>
+ <td align="center">ΘΕΛΕΡΙΤΗ
+ <td align="center"><font color="black">ΝΑΚΟΥ<br>
+ <td align="center"><font color="black">ΑΝΑΣΤΑΣΟΠΟΥΛΟΣ<br>
+ <td align="center">ΝΕΣΤΟΡΑΣ
+</tr>
+</body>
+</html>
