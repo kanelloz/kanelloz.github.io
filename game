@@ -1,0 +1,44 @@
+<html>
+<body>
+<h2> MANTEPSE TON STITHMO APO 0-10</H2>
+<input id="box"
+       pattern="0-10" size="10" required>
+
+<button onclick ="test()">MANTEPSE </button>
+
+<script>
+function test()
+{
+number = document.getElementById("box").value
+
+if (number>x) {
+  alert("einai ligo mikrotero");
+  <audio>
+var acousticGuitar = new Pizzicato.Sound('./music/wrong.mp3', function() {
+    // Sound loaded!
+    acousticGuitar.play();
+});
+
+}
+
+if (number<x) {
+  alert("einai ligo megalitero");
+  <audio>
+var acousticGuitar = new Pizzicato.Sound('./music/wrong.mp3', function() {
+    // Sound loaded!
+    acousticGuitar.play();
+  
+}
+
+if (number==x) {
+  alert("mpravo to vrikes");
+  <audio>
+var acousticGuitar = new Pizzicato.Sound('./music/correct.mp3', function() {
+    // Sound loaded!
+    acousticGuitar.play();
+}
+}
+x=Math.floor(Math.random() * 11); 
+</script>
+</body>
+</html> 
